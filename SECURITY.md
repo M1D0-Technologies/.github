@@ -1,7 +1,7 @@
-# Security Policy
+# Security policy
 
-These are public, documentation-only showcase repositories — they contain no product source code.
+These are public, documentation-only showcase repositories. They contain no product source code.
 
-To report a security concern relating to M1D0 Technologies, the Dahhan Enterprises group, or any of our live services, email **contact@m1d0.com**. Please include enough detail to understand and reproduce the issue. We aim to acknowledge legitimate reports promptly.
+To report a security concern relating to M1D0 Technologies or the businesses connected through Dahhan Enterprises, email **contact@m1d0.com** with enough detail to understand the issue.
 
-Please do not open public issues for security matters — issues are disabled on these repositories by design.
+Please do not report security matters in public issues.
